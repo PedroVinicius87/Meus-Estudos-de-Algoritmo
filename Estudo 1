@@ -1,0 +1,11 @@
+algoritmo "Teste 1"
+var
+msg: caractere
+msh: caractere
+
+inicio
+msg <-("Olá, mundo! ")
+msh <-("O dia está lindo hoje.")
+escreval(msg, msh)
+
+fimalgoritmo
